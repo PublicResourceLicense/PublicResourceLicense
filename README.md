@@ -1,6 +1,8 @@
 # Public Resource License
 ## This license uses the seeds in which they themselves have sown.
 
+https://github.com/PublicResourceLicense/PublicResourceLicense/blob/main/prl%20license.txt
+
 ```GitResearch will temporarily include GitHub and GitLab until 7/19/23.
 
 Anyone wishing to help may do so.
@@ -33,7 +35,8 @@ This license is not made to benefit any of the ultra rich.
 This license uses the seeds in which they themselves have sown.
 ```
 
-\n
+### The License
+https://github.com/PublicResourceLicense/PublicResourceLicense/blob/main/prl%20license.txt
 
 ```PURPOSE OF THE PUBLIC RESOURCE LICENSE:
 
@@ -94,3 +97,4 @@ GOVERN VIA CONSENSUS.
 SUCCESS. CRYPTOCURRENCY WHICH IS AN OPEN-SOURCE PROJECT IS WORTH
 NEARLY  TWO TRILLION DOLLARS.  MORESO THAN ANY   OTHER SOFTWARE.
 ```
+https://github.com/PublicResourceLicense/PublicResourceLicense/blob/main/prl%20license.txt
