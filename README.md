@@ -64,8 +64,8 @@ etc. then this would create 800,000,000 (800 million) unique pairs,
 which would create 154,400,000,000,000 total headaches to try and
 fight. 
 
-The public resource license, if compared only to GitHub, would make
-cause 7.15956574536e+47.
+The public resource license, if compared only to GitHub, would have had 
+ 7.15956574536e+24 licenses become valid since its inception. 
 
 The only entities able to be sued are the ones that violate this 
 license. This license restricts corporations with revenues above $100 Million from using any research unless they allow the use of their
