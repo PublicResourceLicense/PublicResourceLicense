@@ -1,3 +1,40 @@
+# Public Resource License
+## This license uses the seeds in which they themselves have sown.
+
+```GitResearch will temporarily include GitHub and GitLab until 7/19/23.
+
+Anyone wishing to help may do so.
+
+All terms used have been used by corporations successfully in a court
+of law. The government has also utilized terms and tactics used
+within this document. This document took two and half years to form
+due to the complex nature of the situation. 
+
+I implore you to read or listen to this article:
+https://medium.com/p/4bc83666155
+
+This documents holds all humans and others alike free from lawsuit
+so long as they attribute credit, and do not steal credit nor try
+to make shift onto other decentralized platforms.
+
+The idea may appear contradictory but is in fact the utmost 
+representation of decentralization. GitResearch is a Centralized
+Decentralized Entity Organized by All Humans under one unified
+platform. No boards. No directors. No leaders. No authoritarians.
+
+The human collective.
+
+Corporations will attempt to gaslight you. What human would be
+against the acceleration of human advancement and wellbeing?
+
+Use the Public Resource License. It's made for humans.
+
+This license is not made to benefit any of the ultra rich.
+This license uses the seeds in which they themselves have sown.
+```
+
+\n
+
 ```PURPOSE OF THE PUBLIC RESOURCE LICENSE:
 
 1. STUDENT INVENTIONS ARE PATENTED BY UNIVERSITIES BECAUSE THOSE
