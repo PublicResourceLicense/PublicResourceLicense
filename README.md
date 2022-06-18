@@ -3,123 +3,74 @@
 This is not part of the license. Only between license \[begin and end\] shall designate the license. 
 
 https://github.com/PublicResourceLicense/PublicResourceLicense/blob/main/prl%20license.txt
+Easier reading here: https://medium.com/gitresearch/what-is-the-public-resource-license-913bedfb623c
 
 ```GitResearch will temporarily include GitHub and GitLab until 7/19/23.
 
 
 Anyone wishing to help may do so.
 
-Corporations have successfully used all terms in a court
-of law. The government has also utilized terms and tactics used
-within this document. This document took two and half years to form
-due to the complex nature of the situation. 
+here are a few things with universities in this contract. All (at least all I could find) universities patent their students’ inventions because “they gave them the facilities needed to invent.” That is not how that works. Students pay for universities. Under no circumstance should these organizations be able to claim the right of ownership for a student’s invention.
 
-I implore you to read or listen to this article:
-https://medium.com/p/4bc83666155
+How is that setting them up for success? It isn’t. It is stealing.
 
-This document holds all humans and others alike free from a lawsuit
-so long as they attribute credit and do not steal credit or try
-to makeshift onto other decentralized platforms.
+Therefore, this license protects a student’s and faculty member’s work and prohibits any university or organization of education from patenting, trademarking, copyrighting, licensing, or having any claim of ownership over any property. All licensors must be human, and these entities cannot use a proxy.
 
-This document describes how no organization, human, board,
-or Entity will own or control this. All workings will be public
-and voted on publicly using crypto governance.
+Since open-source licenses can revert to their fully licensed version by only having a part of the license available in the code, this license shall also take advantage of that. Of course, this was not meant to be an easy fight. Corporations have pushed their way to be the law. Well. I, on behalf of human interest, authored this license to give humans a bit of freedom.
 
-The idea may appear contradictory but is the utmost 
-representation of decentralization. GitResearch is a Centralized
-Decentralized Entity Organized by All Humans under one unified
-platform. No boards. No directors. No leaders. No authoritarians.
+A few pointers:
 
-The human collective.
+No law states a contract be bulletproof.
 
-Corporations will attempt to gaslight you. What human would be
-against the acceleration of human advancement and wellbeing?
+There are many against this contract and will do anything to prevent you and others from viewing it. Make sure to make a bit of noise on any negative comment. Negative comments without provoking is a clear sign that they are threatened.
 
-Use the Public Resource License. It's made for humans.
+Verbal agreements are law binding.
 
-This license is not made to benefit any of the ultra-rich.
-This license uses the seeds which they have sown.
-```
-### Watch out for gaslighting.
-```
-Here is what they will say about this license. That it is not
-valid, that is it improper. That is illegal. None of which are
-true. They will try to convince you or will be someone with
-interests against this license within the court system that
-will state that this will not work. They will have immediate
-upvotes from the other bots. Humans believe congruity to mean
-fact, and that is false.
+Viewing an agreement can be law binding.
 
-The most significant fact: even if a license or contract is invalid or
-unlawful, it still requires one to go to court.
+A scribble on a napkin can be an agreement if it offers consideration. Consideration is an exchange of anything from material items to promises.
 
-Since each human is a licensor and licensee, they are bound by
-the decisions of the jurisdiction of their contract, which in
-this case is all jurisdictions, and since the contract may not
-be universally canceled except by that of the upper court systems.
-Additionally, each license/contract (yes, both) is formed between
-two parties non-exclusively; and if 20 people contributed to the
-repo of the research, and 40,000,000 people downloaded it, viewed it,
-etc. then this would create 800,000,000 (800 million) unique pairs,
-which would create 154,400,000,000,000 total headaches to try and
-fight. 
+It is not against any law to assign a contract to multiple jurisdictions.
 
-The public resource license, if compared only to GitHub, would have had 
- 7.15956574536e+24 licenses become valid since its inception. 
+Many things are not patentable, but anything is licensable.
 
-The only entities able to be sued are the ones that violate this 
-license. This license restricts corporations with revenues above $100 Million from using any research unless they allow the use of their
-patents and study or pay a fee to the authors.
+Contracts can be redefined in court within a jurisdiction if the judge deems it unfair and a clause exists to allow both parties or the judge to choose alternative definitions.
 
-Original authors will be credited with the  ownership of the
-repository, so stealing work is useless. 
+Contracts and laws have discriminated against low-income individuals since arrangements have existed. It is no different when targeting the ultra-rich.
 
-The speed of light, its method of instant communication, and all
-of my research, including the fix to mathematics are protected under
-all humans as they own the Public Resource License. 
+You can define a list in any way possible as long as the definition is within the license itself.
 
-But the point is. Even if invalid. A single project would need a considerable
-blanket to invalidate 154,400,000,000,000 licenses. And doing so would
-have precautions since this contract was based on the collective
-summaries of all "FAIR BUSINESS PRACTICE" acts.
+The supreme court mandated that licenses are identical to contracts, so we must now have consideration.
 
-The facts. Verbal contracts are indisputable. No language is needed to 
-establish a contract. A contract is excellent to have so you don't
-become liable to someone else and vice versa. Contracts usually
-self-terminate themselves if something minimal occurs, which
-causes it to void the entire thing. This clause is to protect
-the party involved that wrote the contract.
+A contract/license is only void if it asks you to do something illegal.
 
-Contracts can designate any number of jurisdictions. It is unwise
-to do so because then you'd have to fight in every jurisdiction to
-change all jurisdictions. In this case, though, it is very desirable for the
-contract or license to remain active throughout if one has a ruling 
-that voids the license. The great thing about this, though, is that
-every single assignment, while connected, is separate from all others,
-and so, to void all of them, then the supreme court would need to
-find the definitions of this contract (which are currently used to
-privatize code, medicine, techniques, and all assets which
-should be and originally illegal to own) illegal for all contracts
-and would release all descriptions fitting patents to the public
-domain.
----
-This uses a clause that Verizon used in my employment contract since
-they had many different regions. And it was that if a definition does
-not adhere to local jurisdictional statutes, this article may be
-amended and redefined by the agreement of both parties.
+No matter how much this contract may appear to be bullshit. It is still active in every jurisdiction individually between members, meaning that it would be impossible for corporations to fight. On the flip side, all humans can collectively sue a corporation for violating the agreement.
 
-So. I give you the societal virus to give humans their rights back.
-Did you know all Ivy League colleges have a vast collection
-of ancient artifacts and whatnot photographs, and they want
-upwards of $500 to license one photo? A photo of something in the
-public domain should not be copyrightable.
+A contract can be entered into verbally, so a warning across research shall be sufficient for agreement.
 
-By this logic, I should be able to take a photo of anything and
-remove the copyright. Watch people defend corporations now. The
-Public Domain means the license belongs to YOU. And the fact that
-corporations can append their right onto your property should 
-ANGER YOU! If it doesn't, I am confident that
-you've sold out your fellow human species for a buck. Congrats. 
+Ignorance does not void licenses, contracts, patents, trademarks, copyrights, etc.
+
+Restrictions: you are not allowed to use the research if it is to be used by corporations or subsidies of corporations with annual revenues of $100,000,000USD or equivalent to that amount in the local or most popular worldwide currency. Corporations over the restriction threshold can obtain permission to use the research. Funds allocated are voted on by all members of the branch. The governance shall be crypto-based so that no single person or group can hijack funds, and all allocations are public. All humans will govern it via a no-revenue organization.
+
+Living contractual propagations: It just means that if something is illegal in that jurisdiction — as this is a worldwide license, then that part shall be redefined or removed in that jurisdiction pursuant to the overall purpose of the license and agreed to by both parties. This is one that employment contracts like to utilize.
+
+A corporate term that has given unilateral dictatorship of all law is this simple phrase that has been upheld countless times: “we reserve the right to terminate your account for any reason at any time without notice.”
+
+If that is not illegal, then nothing in this contract comes close to that. Since the supreme court considers a license a contract, I now combine my definition of the two.
+
+Further restrictions: you cannot use the research to harm, oppress, track, or spy on humans.
+
+Consideration: I have put time and effort into my research, and so I license it under the Public Resource License, which allows any human to add to the research, take the study for themselves, or to profit from it as long as it is not verbatim or sold within any educational resource as all educational resources should be free to an extent. I understand that many researchers make their living on publishing research, so they are entitled to the authorship of their contribution for up to three years.
+
+The consideration of the license is “you are allowed to use my research,” but in exchange, “you must license all of your research and subsequent research under this same license.”
+
+Any authorship of textbooks or physical books shall give the research owner the first couple of years to write about it in physical print.
+
+Fairness is built on antitrust laws. Licenses must also be fair, and so, if you agree to use this research, then you agree to hold all humans unaccountable for anything that goes wrong, and we agree not to hold you accountable UNLESS the act was purposively malicious against humans or committed a crime in which property or assets were stolen.
+
+What about News or articles?
+
+They only need to prepend their articles/videos with: ℗ Public Resource License — Research based on this research must be licensed under the Public Resource License.
 
 It should NOT cost a mother $50,000 per month to keep her SON alive. 
 
